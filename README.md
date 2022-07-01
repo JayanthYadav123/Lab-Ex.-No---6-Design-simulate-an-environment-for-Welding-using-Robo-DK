@@ -94,6 +94,13 @@ risk of interfering with the robot.
 6. ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
 
 
-### Results of simulation 
+### simulation :
+![image](https://user-images.githubusercontent.com/94836154/176931619-13f679f0-aa42-49f9-84a7-9eb85be26499.png)
+![image](https://user-images.githubusercontent.com/94836154/176931684-207d6f8c-c8d3-4173-ba27-dac4f509d6e6.png)
+![image](https://user-images.githubusercontent.com/94836154/176931708-46801e7e-fdf9-47ec-aec4-6b5816e60859.png)
+### Results:
+An environment for welding operation using robodk is Designed & simulated.
+
+
 
 
